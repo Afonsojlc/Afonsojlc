@@ -44,6 +44,7 @@ These are the languages and frameworks I am currently using and learning:
 ## 🏆 Education & Achievements
 
 * 📚 **Higher Professional Technical Course in Information Systems Technologies and Programming** - **IPMAIA** (Currently Attending)
+* 📚 **Automotive Mechatronics Technician (Apprenticeship)** - **DUAL** (Completed in 2025)
 
 ---
 
