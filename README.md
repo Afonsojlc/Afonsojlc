@@ -63,7 +63,7 @@ These are the languages and frameworks I am currently using and learning:
 
 ## 🌐 Contact
 
-* **LinkedIn:** 
+* **LinkedIn:** https://www.linkedin.com/in/afonsojlc/
 * **Email:** afonsocarvalho.main007@gmail.com
 
 ---
