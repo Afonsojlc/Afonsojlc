@@ -19,24 +19,27 @@
 
 ## 🎯 About Me
 
-I am a **Software Engineering Student at IPMAIA** (**18/20 GPA**) specializing in **Backend Architecture** (.NET, Laravel, Python) and **Enterprise DevOps / CI/CD Automation** (Jenkins, PowerShell, IIS). 
+I am a **Software Engineering Student at IPMAIA** specializing in **Backend Architecture** (.NET, Laravel, Node.js) and **Enterprise DevOps / CI/CD Automation** (Jenkins, PowerShell, IIS). 
 
-My engineering perspective is uniquely shaped by an extensive background in **Heavy Automotive Mechatronics**. Diagnosing complex embedded electronic networks (ECUs, CAN bus telemetry, electrical/hydraulic circuits) instilled in me an uncompromising mindset of **root-cause analysis**, **system reliability**, and **failure-mode isolation** — principles that directly govern how I design APIs, structure databases, and automate deployment pipelines.
+My engineering perspective is uniquely shaped by an extensive background in **Heavy Automotive Mechatronics**. Diagnosing complex embedded electronic networks (ECUs, CAN bus telemetry, electro-hydraulic systems) trained me in rigorous **root-cause analysis**, **system reliability**, and **failure-mode isolation** — mindsets that directly elevate how I design APIs, ensure ACID transactional consistency, and engineer automated infrastructure.
 
-* 🎓 **Academic Standing:** 18/20 overall GPA (17/20 1st Semester, 19/20 2nd Semester), with a perfect **20/20 in Core Backend Architecture**.
-* 💼 **DevOps Experience:** Built enterprise CI/CD infrastructure from scratch during a Summer Internship at **Garland Transport Logistics**, orchestrating pipelines for a 30+ micro-API ecosystem.
-* 🥋 **Discipline & Focus:** 17+ years of continuous Karate practice and 4+ years of dedicated strength training.
-* 🚀 **Next Target:** Aiming for my **Curricular Internship (2027)** with high-standard engineering teams tackling critical backend, distributed systems, or FinTech challenges.
+* 🎓 **Academic Standing:** Completed the 1st year of the Software Development CTeSP at **IPMAIA** with an outstanding **18/20 final average** (including **20/20 in Object-Oriented Programming (OOP)**, **20/20 in Backend Web Development**, and **19/20 in Algorithms & Data Structures**).
+* 💼 **Enterprise DevOps Track Record:** Built the CI/CD infrastructure from scratch during a Summer Internship at **Garland Transport Logistics**, orchestrating pipelines for a 30+ micro-API ecosystem.
+* 🥋 **Discipline & Consistency:** 17+ years of continuous Karate practice and 4+ years of dedicated strength training.
+* 🚀 **Next Target:** Looking ahead to my **Curricular Internship (2027)**, aiming to join high-standard engineering teams tackling critical backend, distributed systems, or FinTech challenges.
 
 ---
 
-## 🏢 Enterprise DevOps Track Record · Garland Transport Logistics
+## 🏢 Enterprise DevOps & CI/CD · Garland Transport Logistics
 
-During my DevOps Summer Internship, I spearheaded the design and rollout of production-grade CI/CD pipelines across dozens of enterprise systems:
+During my Summer Internship in DevOps & CI/CD at **Garland Transport Logistics**, I architected, built, and standardized the company's continuous deployment infrastructure across dozens of enterprise logistics and management systems:
 
-* **Ecosystem Orchestration:** Automated continuous integration and deployment for **30+ micro-APIs** and enterprise applications across modern (.NET Core, Vue.js/Nuxt) and legacy stacks (.NET Framework 4.5.2).
-* **DRY Architecture:** Architected a modular, reusable **PowerShell automation library** that reduced initial pipeline codebases by **60%**, standardizing build, test, and release cycles.
-* **High Availability:** Engineered zero-downtime deployment workflows on **IIS** paired with automated disaster-recovery rollback mechanisms.
+* 🌐 **30+ Micro-API Ecosystem Orchestration:** Engineered and deployed automated Jenkins pipelines across more than 30 microservices and enterprise applications (including *GLOG API Apex*, *GLOG Connect*, *K2 Air/Sea/Bulk*, *TMS Financials*, *TMS Prod*, *WMS*, *SAP*, and *Garland Core API*).
+* 🔄 **Multi-Stack Pipeline Support:** Unified deployment workflows across modern **.NET 8 / .NET Core**, legacy **.NET Framework 4.5.2** (MSBuild), and **Vue.js / Nuxt** frontends.
+* ⚙️ **Modular PowerShell Library (60% Code Reduction):** Architected a DRY, centralized suite of reusable PowerShell automation modules (`Deploy-IIS.ps1`, `Deploy-Frontend.ps1`, `Backup-Env.ps1`, `Rollback-IIS.ps1`, `Notify-Teams.ps1`), reducing initial pipeline script codebases by **60%** across repositories.
+* 🛡️ **Zero-Downtime IIS Deployments & Disaster Recovery:** Implemented seamless zero-downtime maintenance transitions using IIS app-pool lifecycle controls and `app_offline.htm`, integrated with pre-deploy state snapshots and instantaneous automated rollbacks.
+* 📢 **ChatOps Telemetry:** Connected automated **Microsoft Teams Webhooks** to broadcast real-time build, test, and release telemetry alerts to engineering channels.
+* 📚 **Corporate CI/CD Central Guide:** Authored the company's 4,000+ line interactive Jenkins CI/CD Central Guide and Template Portal (`Guia_CI-CD_Jenkins.html` & Technical Manual), standardizing DevOps onboarding for developers.
 
 ---
 
@@ -44,31 +47,38 @@ During my DevOps Summer Internship, I spearheaded the design and rollout of prod
 
 <div align="left">
 
-### 💻 Backend & Programming Languages
+### 💻 Programming Languages & Runtimes
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-### 🚀 DevOps, CI/CD & Cloud Infrastructure
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![C](https://img.shields.io/badge/C_Lang-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![SQL](https://img.shields.io/badge/SQL_T--SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### 🚀 Frameworks, DevOps & Tools
+[![Laravel](https://img.shields.io/badge/Laravel_11%2F13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![IIS](https://img.shields.io/badge/IIS_Server-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://www.iis.net/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://www.iis.net/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-### 🗄️ Databases & Storage
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+### 🗄️ Databases & Data Integrity
+[![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server_2022-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-### 📐 Architecture & Reliability Concepts
-`ACID Transactions` • `Pessimistic Concurrency Locking` • `Double-Entry Ledgers` • `Zero-Downtime Deployments` • `Disaster Recovery & Automated Rollbacks` • `Cursor-Based Pagination` • `RESTful API Design` • `Clean Architecture`
+### 📐 Systems & Reliability Concepts
+`ACID Transactions` • `Pessimistic Locking (lockForUpdate)` • `Double-Entry Ledger` • `Zero-Downtime Deployments` • `Automated Rollbacks & DR` • `Cursor-Based Pagination` • `RESTful APIs` • `Clean Architecture & OOP`
 
 </div>
 
@@ -76,14 +86,78 @@ During my DevOps Summer Internship, I spearheaded the design and rollout of prod
 
 ## 🌟 Featured Engineering Projects
 
-| Project | Domain / Highlights | Tech Stack | Status / Grade |
-| :--- | :--- | :--- | :---: |
-| 🏦 **[`core-banking-api`](https://github.com/Afonsojlc/core-banking-api)** | High-performance Core Banking API with ACID double-entry ledger, `DECIMAL(15,4)` monetary integrity, step-up 4-digit PIN security, ECB exchange rate caching, automated spare-change savings vaults, and French loan amortization. | `PHP 8.3` `Laravel 11` `Sanctum` `SQLite` | **20/20** 🏆 |
-| 💼 **[`commercial-sales-manager`](https://github.com/Afonsojlc/commercial-sales-manager)** | Desktop ERP & CRM system featuring relational SQLite persistence, sales order workflows, automated receipt generation, zero external dependencies, and portable standalone binary releases. | `Python 3` `Tkinter` `SQLite` `OOP` | **v1.0.0** 📦 |
-| 🍽️ **[`restaurant-api`](https://github.com/Afonsojlc/restaurant-api)** | Production-ready RESTful service for table bookings, menu catalogs, and customer order management with relational normalization. | `PHP` `Laravel` `REST API` `MySQL` | **Completed** ✅ |
-| 📚 **[`book-library-api`](https://github.com/Afonsojlc/book-library-api)** | Cataloging and inventory management backend supporting advanced multi-criteria filtering, loan tracking, and input validation. | `PHP` `Laravel` `REST API` `SQLite` | **Completed** ✅ |
-| 🎬 **[`movie-catalog-api`](https://github.com/Afonsojlc/movie-catalog-api)** | RESTful API for media archiving, ratings, and genre classification structured under Clean Architecture principles. | `PHP` `Laravel` `REST API` `SQLite` | **Completed** ✅ |
-| ⚓ **[`battleship-cli`](https://github.com/Afonsojlc/battleship-cli)** | Algorithmic naval combat strategy game designed for terminal execution, emphasizing clean memory management and grid state validation. | `C` `Algorithms` `CLI` | **Completed** ✅ |
+### 🏦 [Core Banking API](https://github.com/Afonsojlc/core-banking-api)
+[![PHP 8.3](https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/Afonsojlc/core-banking-api)
+[![Laravel 11](https://img.shields.io/badge/Laravel-11%20%2F%2013-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/Afonsojlc/core-banking-api)
+[![Sanctum](https://img.shields.io/badge/Auth-Sanctum-red?style=flat-square)](https://github.com/Afonsojlc/core-banking-api)
+[![Grade 20/20](https://img.shields.io/badge/Academic%20Grade-20%2F20%20%F0%9F%8F%86-brightgreen?style=flat-square)](https://github.com/Afonsojlc/core-banking-api)
+[![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Afonsojlc/core-banking-api)
+
+> **High-Performance Core Banking RESTful API with ACID Ledger & Micro-Savings**
+* **Monetary Precision:** Strict `DECIMAL(15,4)` accounting across accounts and vaults, eliminating binary floating-point rounding errors.
+* **ACID & Concurrency Safety:** Atomic operations wrapped in `DB::transaction` with row-level pessimistic locking (`Account::lockForUpdate()`) and deadlock-free sorted ID retrieval.
+* **Step-Up Security:** Dual-layer authentication enforcing an encrypted 4-digit PIN for high-risk money-out operations (`withdraw`, `transfer`, `payment`).
+* **FinTech Innovations:** Real-time ECB currency exchange caching (Frankfurter API), automated card-payment "Spare Change" rounding directly into active savings vaults, high-scale cursor-based pagination (`cursorPaginate`), and French loan amortization simulator (Price schedule).
+* **Automated Testing:** Comprehensive Feature & Unit test coverage.
+
+---
+
+### 💼 [Commercial Sales Manager (SFA)](https://github.com/Afonsojlc/commercial-sales-manager)
+[![C# 12](https://img.shields.io/badge/Language-C%23_12-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/Afonsojlc/commercial-sales-manager)
+[![.NET 8](https://img.shields.io/badge/Platform-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Afonsojlc/commercial-sales-manager)
+[![UI Blazor WebView](https://img.shields.io/badge/UI-Blazor_WebView-512BD4?style=flat-square&logo=blazor&logoColor=white)](https://github.com/Afonsojlc/commercial-sales-manager)
+[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS_v3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/Afonsojlc/commercial-sales-manager)
+[![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/Afonsojlc/commercial-sales-manager)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0%20%F0%9F%93%A6-blue?style=flat-square)](https://github.com/Afonsojlc/commercial-sales-manager/releases)
+
+> **Enterprise Desktop Sales Force Automation (SFA) & B2B Order Management System**
+* **Business Problem:** Engineered to digitize analog carbon-copy paper order pads used by field sales representatives in technical distribution and electrical wholesale.
+* **Cascading Pricing Engine:** Calculates complex cascading manufacturer discounts (e.g. `50+10`, `40+5+2.5`) in real-time with strict mathematical tolerance.
+* **Zero Dependencies & Portability:** Distributed as a standalone, self-contained Windows x64 binary executable (ZIP release) with automated receipt printing, client credit validations, and comprehensive enterprise documentation.
+
+---
+
+### 🍽️ [Restaurant API](https://github.com/Afonsojlc/restaurant-api)
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/Afonsojlc/restaurant-api)
+[![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/Afonsojlc/restaurant-api)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Afonsojlc/restaurant-api)
+[![REST API](https://img.shields.io/badge/Architecture-REST_API-009688?style=flat-square)](https://github.com/Afonsojlc/restaurant-api)
+
+> **RESTful Service for Table Reservations, Menu Catalogs & Order Lifecycle Management**
+* Normalized relational database architecture managing restaurant tables, categories, orders, and customer billing.
+* Complete Postman test collections and structured HTTP endpoints.
+
+---
+
+### 🎬 [Movie Catalog API](https://github.com/Afonsojlc/movie-catalog-api)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/Afonsojlc/movie-catalog-api)
+[![Express](https://img.shields.io/badge/Express-REST_API-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Afonsojlc/movie-catalog-api)
+[![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://github.com/Afonsojlc/movie-catalog-api)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Afonsojlc/movie-catalog-api)
+
+> **Media Cataloging & Review Service with Modern ORM Integration**
+* High-performance backend utilizing **Prisma ORM** for type-safe database queries, genre classification, and rating metrics.
+* Clean Architecture separation between business controllers, route definitions, and data models.
+
+---
+
+### 📚 [Book Library API](https://github.com/Afonsojlc/book-library-api)
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/Afonsojlc/book-library-api)
+[![Laravel](https://img.shields.io/badge/Laravel-REST-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/Afonsojlc/book-library-api)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/Afonsojlc/book-library-api)
+
+> **Inventory & Loan Management Service with Advanced Filtering**
+* Manages book lending lifecycle, author registries, and fine calculations with parameter-driven search queries.
+
+---
+
+### ⚓ [Battleship CLI](https://github.com/Afonsojlc/battleship-cli)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Afonsojlc/battleship-cli)
+[![CLI](https://img.shields.io/badge/Interface-Terminal_CLI-black?style=flat-square)](https://github.com/Afonsojlc/battleship-cli)
+[![Algorithms](https://img.shields.io/badge/Focus-Grid_Algorithms-orange?style=flat-square)](https://github.com/Afonsojlc/battleship-cli)
+
+> **Algorithmic Naval Strategy Game for the Terminal**
+* Terminal-based strategy game emphasizing 2D coordinate matrix state management, randomized fleet placement algorithms, and turn-based battle loops.
 
 ---
 
@@ -101,7 +175,7 @@ During my DevOps Summer Internship, I spearheaded the design and rollout of prod
 
 ## 📬 Connect & Collaborate
 
-I am always interested in discussing software craftsmanship, high-reliability backend architectures, and DevOps innovations.
+I am always open to discussing software craftsmanship, high-reliability backend architectures, and DevOps innovations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afonsojlc/" target="_blank">
